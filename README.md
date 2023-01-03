@@ -1,6 +1,6 @@
 # GPS
 
-This is kinda like google maps only it utilizes MapBox and OpenStreetMap. It is also very lightweight and runs off just 2 files!
+This is kinda like google maps only it utilizes MapBox and OpenStreetMap. It is also very lightweight and runs off just 2 files! Anyways, have fun using this and I hope to update it hopefully in a little while for some real time GPS tracking!!!
 
 # How to use
 
